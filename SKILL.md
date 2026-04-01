@@ -1,4 +1,8 @@
-# hipc_computer_list Skill - HiPC电脑列表查询
+---
+name: hipc_computer_list
+description: HIPC系列技能，查询用户名下的电脑列表。当用户需要查看电脑列表时，查询并放回数据。
+argument-hint: "[电脑列表]"
+---
 
 ## 功能描述
 查询用户名下的电脑列表。
